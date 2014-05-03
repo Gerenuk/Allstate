@@ -1,0 +1,8 @@
+{
+  "base_url": "/", 
+  "port": 8888, 
+  "secure": false, 
+  "notebook_dir": "C:\\Users\\Anton\\Eclipse Workspace\\AllstatePurchase\\code\\notebooks", 
+  "url": "http://127.0.0.1:8888/", 
+  "hostname": "127.0.0.1"
+}
